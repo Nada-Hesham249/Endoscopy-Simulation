@@ -1,7 +1,9 @@
 # Intelligent Endoscopic Assistance System
 
 ## Overview
+
 A simulation-based endoscope system built with **Python**, **OpenCV**, and **PyQt5** that models the core components of a real endoscope. The system integrates real-time imaging, illumination control, navigation, image processing, and feature extraction capabilities.
+
 ---
 <img width="1910" height="973" alt="Screenshot 2026-05-22 065900" src="https://github.com/user-attachments/assets/d79df8f7-0c92-4026-bd88-dafc3c4cbbe1" />
 
